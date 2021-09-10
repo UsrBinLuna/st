@@ -7,4 +7,4 @@ st-scrollback-mouse-20191024
 st-scrollback-mouse-altscreen-20200416  
 
 ## todo
-- [ ] implement grayscale mountain theme
+- [x] implement grayscale mountain theme
